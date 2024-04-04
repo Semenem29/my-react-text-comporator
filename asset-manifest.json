@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-react-text-comporator/static/css/main.9ab2fcc0.css",
+    "main.js": "/my-react-text-comporator/static/js/main.330c6ea6.js",
+    "index.html": "/my-react-text-comporator/index.html",
+    "main.9ab2fcc0.css.map": "/my-react-text-comporator/static/css/main.9ab2fcc0.css.map",
+    "main.330c6ea6.js.map": "/my-react-text-comporator/static/js/main.330c6ea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab2fcc0.css",
+    "static/js/main.330c6ea6.js"
+  ]
+}
