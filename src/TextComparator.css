@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+.font-mont {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+.text-comparator {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .textarea {
+    margin: 1% 0%;
+    padding: 2% 1%;
+    width: 95%;
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+  }
+
+header {
+  display: grid;
+  place-items: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: x-large;
+  color:black;
+}
